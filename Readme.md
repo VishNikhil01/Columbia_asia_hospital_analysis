@@ -7,8 +7,6 @@
 - Designed a multi-page Power BI dashboard covering revenue trends, patient volume, wait-time metrics, department activity, and doctor-level analysis.  
 - Used SQL for initial data exploration and Power BI for modeling and visualization.  
 
-
-
 ## 🛠 Tools Used
 - SQL  
 - Power BI  
