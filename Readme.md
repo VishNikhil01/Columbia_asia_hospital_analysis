@@ -13,4 +13,4 @@ The project focuses on data cleaning, data modeling, and creating an interactive
 ## 📂 Project Presentation
 Click the thumbnail above to view the complete project presentation (PDF).
 
-[![Project Thumbnail](thumbnail.png)](./Blue and Green Modern Medical Presentation.pdf)
+[![Project Thumbnail](thumbnail.png)](./ppt.pdf)
