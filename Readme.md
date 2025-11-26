@@ -11,6 +11,5 @@ The project focuses on data cleaning, data modeling, and creating an interactive
 - DAX
 
 ## 📂 Project Presentation
-Click the thumbnail above to view the complete project presentation (PDF).
 
-[![Project Thumbnail](thumbnail.png)](./ppt.pdf)
+[![View Presentation](thumbnail.png)](PPT.pdf)
