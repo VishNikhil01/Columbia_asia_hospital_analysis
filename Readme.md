@@ -14,4 +14,4 @@
 
 ## 📂 Project Presentation
 
-[![View Presentation](thumbnail.png)](PPT.pdf)
+[![View Presentation](thumbnail.png)](ppt.pdf)
